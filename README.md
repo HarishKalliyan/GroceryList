@@ -2,7 +2,7 @@
 
 In this repository I have created a Web based Grocery list application which can able to view in both mobile and desktop , In this I have created a list based on Cat theme in which people can able to Note the neccesary grocery need to buy also after buying it we can also able to remove it from the list.
 
-# Screem Shots of the Project:
+# Screen Shots of the Project:
 
 # Mobile View:
 ![IMG_20231025_202752](https://github.com/HarishKalliyan/Login-Authorization-with-Firebase/assets/90775945/ed650ffe-61ab-47d1-b4da-29aef0e024df)
