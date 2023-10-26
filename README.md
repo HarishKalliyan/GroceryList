@@ -1,4 +1,17 @@
-# cocd14107a32082e1ee908234
+# GroceryList:
+
+In this repository I have created a Web based Grocery list application which can able to view in both mobile and desktop , In this I have created a list based on Cat theme in which people can able to Note the neccesary grocery need to buy also after buying it we can also able to remove it from the list.
+
+# Screem Shots of the Project:
+
+Mobile View:
+![IMG_20231025_202752](https://github.com/HarishKalliyan/Login-Authorization-with-Firebase/assets/90775945/ed650ffe-61ab-47d1-b4da-29aef0e024df)
+
+![IMG_20231025_202744](https://github.com/HarishKalliyan/Login-Authorization-with-Firebase/assets/90775945/f93e1412-83a2-45d6-8d57-954718b9fae6)
+
+Desktop View:
+
+![Grocery Site](https://github.com/HarishKalliyan/Login-Authorization-with-Firebase/assets/90775945/ec053ac0-1a6d-4e80-af81-dd0c79ed98f4)
 
 Quick start:
 
@@ -7,15 +20,5 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
